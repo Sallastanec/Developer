@@ -12,4 +12,4 @@ for k in range (N):
 	if a[k]:
 		b.append(k)
 print ((b[10001]))
-print (len (b))
+
